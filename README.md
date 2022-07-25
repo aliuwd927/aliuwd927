@@ -7,5 +7,6 @@ Technologies I am working with are ReactJS,TypeScript, and Node.
 
 # You can find me on the web
 - Learning in Public <a href="https://www.twitch.tv/andee927"/>Twitch</a>
+- <a href="https://www.linkedin.com/in/andy-liu-951b9413/"/>LinkedIn</a>
 - Maybe a Medium Posts one day?
 - Snooping around <a href="http://johnny-five.io/"/>Johnny Five Io </a>
