@@ -8,3 +8,11 @@ and possbily pick up a new language or two in the future. I would like to expand
 - <a href="https://www.linkedin.com/in/andy-liu-951b9413/"/>LinkedIn</a>
 - Maybe a Medium one day?
 - Snooping around <a href="http://johnny-five.io/"/>Johnny Five Io </a>
+
+#Languages and Tools:
+<div align= "center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="node" alt="node" width="40" height="40"/>&nbsp;
+           <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+        <img src="https://skillicons.dev/icons?i=mongodb,git,html,css,postman" />
+</div>
