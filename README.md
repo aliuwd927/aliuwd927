@@ -1,4 +1,4 @@
-# Hi, I'm Andy 
+# Hi, I'm Andy 👋
 
 I'm a web developer whose passionate about learning. Ever since I learned javascript, I've curious about how far I can personally take it, 
 and possbily pick up a new language or two in the future. I would like to expand my knowledge of Javascript with IoT / Robotics. So far, biggest my long term robotics projects are DJI Tello , MBot, and PS4 Controller. I find drones highly facinating, but as I grow as a web develoer, I would also like to blend drones and the web together, and see the possbilities. 
