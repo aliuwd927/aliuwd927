@@ -14,6 +14,7 @@ and possbily pick up a new language or two in the future. I would like to expand
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="node" alt="node" width="40" height="40"/>&nbsp;
-           <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg)" title="expressjs" alt="expressjs" width="40" height="40"/>&nbsp;
         <img src="https://skillicons.dev/icons?i=git,html,css,postman" />
 </div>
